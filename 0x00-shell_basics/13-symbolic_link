@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /dir/sourcefile ./symfilename
+ln -s /dir/_ls_ ./bin/ls
