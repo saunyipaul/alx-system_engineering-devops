@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $input | tr 'Aac' 'Zee'
+echo $input | tr [Aac] [Zee]
